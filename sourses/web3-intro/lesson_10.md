@@ -14,8 +14,6 @@ The novel appeared in the 1990s, later a similar concept appeared in many works.
 
 Game developers also wanted to create something similar, but the first prototypes of a truly virtual world became possible thanks to the advent of decentralized blockchain networks and the NFT standard.
 
-IMG
-
 Venture capitalist and ideologue of the metaverse Matthew Ball in 2021 identified the main features of the metaverse:
 
 1. Constancy. Infinite existence. It never resets, does not suspend work and does not end.
@@ -33,7 +31,6 @@ Venture capitalist and ideologue of the metaverse Matthew Ball in 2021 identifie
 7. Openness. Metaverses are available to any authors and content makers who can create their own "experiences" in them.
 
 Some of these features are already present in some multiplayer games, but still metaverses are a completely different philosophy.
-IMG_9556
 
 Let's sort this list by items.
 
@@ -54,7 +51,6 @@ Another feature of metaverses is that all users are equal, regardless of their s
 6. Compatibility. Work is also in full swing on this point: in the entire crypto world, the problem of network compatibility is one of the main tasks. The tools are already ready, it remains to adapt them for the convenience of users.
 
 7. Openness. The ability to build interactive 3D objects and installations, virtual galleries and much more is one of the points that attracts brands and artists.
-IMG_9557
 
 So, the term that came from science fiction is gradually taking on a real look. At the moment, there is no fully finished product that meets all the parameters. 
 

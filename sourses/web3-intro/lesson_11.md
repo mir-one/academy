@@ -5,7 +5,6 @@ This is the lesson #11 of the free Web3 tutorial.
 Game Fi / Play-to-Earn
 
 It's no secret that the computer games industry has a huge number of users and money. People play games, buy game items, do it for fun. Many of them would dream of earning real money by playing their favorite game. And so the blockchain introduces a new concept of Play-to-Earn - Play and earn - sounds perfect, let's figure it out.
-IMG
 
 The essence of the idea boils down to the following: the user can make a profit for what develops within a certain game. This became possible due to the fact that the game concept includes the use of blockchain technologies and cryptocurrencies.
 
@@ -31,8 +30,6 @@ Among them:
     NEAR
     Solana
     Wax and others.
-
-IMG
 
 NFT and games seem to be the perfect combination, but game developers are in no hurry to plunge headlong into a new world. This is understandable - the existing model of games is profitable for them, but the issue of ownership of game items and greater participation in the life of the game has long been acute among players.
 
