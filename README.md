@@ -1,5 +1,5 @@
 # Academy
-
+## Web3 tutorial
 - [Lesson 1](/sources/web3-intro/lesson_1.md)
 - [Lesson 2](/sources/web3-intro/lesson_2.md)
 - [Lesson 3](/sources/web3-intro/lesson_3.md)
