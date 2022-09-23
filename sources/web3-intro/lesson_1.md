@@ -1,5 +1,7 @@
 Hello!
-This lesson is the first part of the Web3 tutorial.
+
+This lesson #12 of the Web3 tutorial.
+
 At the moment, we will discuss cryptocurrency as the loudest innovation in the financial sector in recent years.
 
 The problem of creating virtual money has been solved since the advent of the Internet, many people, software engineers, programmers, mathematicians and enthusiasts have been solving. At the end of 2008, a mysterious person (or group of people) under the pseudonym Satoshi Nakamoto published an article (White paper), which contained instructions for creating and using Bitcoin.
