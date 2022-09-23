@@ -1,6 +1,6 @@
 Hi!
 
-This is the lesson #9 of the free Web3 tutorial.
+This lesson #9 of the Web3 tutorial.
 
 DE-FI. Decentralized finance 
 

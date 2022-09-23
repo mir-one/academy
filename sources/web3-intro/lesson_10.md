@@ -1,6 +1,6 @@
 Hi!
 
-This is the lesson #10 of the free Web3 tutorial.
+This lesson #10 of the Web3 tutorial.
 
 Metaverse 
 

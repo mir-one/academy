@@ -1,6 +1,6 @@
 Hello!
 
-This is the twelfth lesson of the free Web3 tutorial.
+This lesson #12 of the Web3 tutorial.
 
 DAO
 

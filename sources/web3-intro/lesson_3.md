@@ -1,6 +1,6 @@
 Hello!
 
-This is the lesson #3 of the free Web3 tutorial.
+This lesson #3 of the Web3 tutorial.
 
 So we take off!
 

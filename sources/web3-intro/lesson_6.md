@@ -1,6 +1,6 @@
 Hello!
 
-This is the lesson #6 of the free Web3 tutorial.
+This lesson #6 of the Web3 tutorial.
 
 The NFT Phenomenon
 

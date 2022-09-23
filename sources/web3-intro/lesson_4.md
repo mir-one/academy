@@ -1,6 +1,6 @@
 Hello!
 
-This is the lesson #4 of the free Web3 tutorial.
+This lesson #4 of the Web3 tutorial.
 
 Blockchain networks, stablecoins and top.
 

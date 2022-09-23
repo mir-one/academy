@@ -1,4 +1,6 @@
-This is the thirteenth lesson of the free Web3 tutorial
+Hello!
+
+This lesson #12 of the Web3 tutorial.
 
 DAO V2
 

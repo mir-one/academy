@@ -1,6 +1,6 @@
 Hello!
 
-This is the lesson #5 of the free Web3 tutorial.
+This lesson #5 of the Web3 tutorial.
 
 Where to buy cryptocurrency?
 

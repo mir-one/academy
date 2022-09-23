@@ -1,6 +1,6 @@
 Hi!
 
-This is the lesson #11 of the free Web3 tutorial.
+This lesson #11 of the Web3 tutorial.
 
 Game Fi / Play-to-Earn
 

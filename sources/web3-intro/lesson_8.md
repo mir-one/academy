@@ -1,6 +1,6 @@
 Hello!
 
-This is the lesson #8 of the free Web3 tutorial.
+This lesson #8 of the Web3 tutorial.
 
 Generative NFT collections / mint NFT
 

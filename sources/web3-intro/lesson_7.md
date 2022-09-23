@@ -1,6 +1,6 @@
 Hello!
 
-This is the lesson #7 of the free Web3 tutorial.
+This lesson #7 of the Web3 tutorial.
 
 We continue to dive into the NFT
 
