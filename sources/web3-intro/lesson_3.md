@@ -2,25 +2,23 @@ Hello!
 
 This lesson #3 of the Web3 tutorial.
 
-So we take off!
+A lot of crypto enthusiasts are similar to space-explorers, and many times they compare them to astronauts. It was found that some are due to the high volatility of cryptocurrency rate, others were attributed by possible large-scale economic gains for humanity from blockchain technology.
 
-Crypto enthusiasts often compare themselves to space explorers. Some are due to the high volatility of cryptocurrency rates, others are due to the potentially huge benefits for humanity from blockchain technology.
-
-To start the journey to WEB3 we need a key.
+We need a key. To start the journey to Web3 we need an access key.
 
 Let's look at an example:
 
-When using public services, the key is a passport, medical services - an insurance policy, on the Internet - e-mail. There is a single account that opens the way to many services.
+At the moment in order to use public services, the key is a valid document, medical services are insurance policy, on the Internet - an email. Unlike other services, there is a single account that opens the way to many services.
 
-For cryptocurrencies and web3, the key is the wallet.
+The key is the wallet. For cryptocurrencies and web3, the main point is for your account.
 
-Every time you log in to any web3 service, you connect your wallet to it. There are several types of wallets, but the basic principle of operation is always the same.
+All the time you logging in to any web3 service, you connect your wallet with it. Wallets have many different models, but the main idea is that they are all one and the same.
 
-When creating (generating) a wallet, the user is shown his secret phrase (Seed-phrase), which can consist of 12,18 or 24 words, it should be written down, and at best, remembered. These words are the key to the wallet. They are known only to one user, no one ever (“support service”) has the right to ask them. The user is fully responsible for the safety of his wallet and secret phrase.
+In order to create a wallet, the user is shown his secret phrase (Seed-phrase), which can consist of 12,18 or 24 words. It should be written down, and at best not remembered by all. As you know, this words are the key to your wallet. In fact, these are only known to one user, no one ever (“support service”) has the right to ask them. Users are fullly committed to protecting his personal data and secret phrase. The user is fully responsible for the security of his wallet and secret password.
 
-It is impossible to guess the seed phrase by chance, but if it becomes known to third parties, then no one can help. Therefore, it is not recommended to store the secret phrase on the computer in notes and correspondence.
+In order to guess the seed phrase, it is impossible to guess by chance, but if it has been discovered to third parties, then no one can help. In order to avoid the secret phrase on the computer, it is not recommended to store it in notes and correspondence.
 
-Personal data and other information is not used when creating a wallet. It's like driving, you need to learn how to drive a car once in order to drive any brand of car without any problems. Internal interfaces have minor differences.
+When creating a wallet, personal data and other information are not used. Similar to the way you drive, you need to learn how to drive a car once in order to drive any brand of car without any problems. The internal interfaces of the Internal Interface have minor differences.
 
 Main types of wallets
 
@@ -30,30 +28,26 @@ Main types of wallets
 
 - Browser extensions
 
-It is generally accepted that hardware wallets are the most reliable. These are physical devices that you need to purchase (required from a reliable supplier).
+A general opinion is that hardware wallets are the most reliable. As you can see, these are the physical devices that you need to purchase (required from a reliable supplier).
 
-Popular Ledger and Trezor manufacturers. This is a device with special software that needs to be connected to a computer to interact.
-
+Ledger and Trezor manufacturers are popular ledger and trezor manufacturers. It is a device with special software, it must be connect to a computer to interact.
 There are wallets that support only one blockchain network, for example, bitcoin core - bitcoin , phantom wallet - Solana blockchain, etc.
 
-But the most popular wallets are apps and browser extensions like MetaMask and Trust. These wallets are universal and support a large number of blockchain networks.
+Not only that, but the most popular wallets are apps and browser extension like MetaMask or Trust. The universality of these wallets is universal and support a large number of blockchain networks.
 
-Using the most popular of them as an example, we will create a new wallet
+A new wallet is planned to be made by using the most popular of TON as an example, we will create a new one
 
-1. We go to the official website - metamask.io
+1. We go to the official website - https://ton.org/wallets
 
 Only official resources are the main testament to using crypto! Always check, or better yet, keep a list of required links handy.
 
 Next, install the browser extension or mobile application.
 
 Then we are prompted to create a new wallet, if the wallet has already been created - just enter the secret phrase to enter your account.
-img
 
 2. Our wallet is generated!
-img
 
 The screen shows a secret phrase, write it down - this is the very key to your cryptocurrency. Press next and enter our words in order, confirm that the phrase is recorded.
-img
 
 Hooray, our wallet is created.
 

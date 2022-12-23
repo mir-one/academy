@@ -1,5 +1,9 @@
 # Academy
-## Web3 tutorial
+
+## TON School
+
+
+## Web3 Lessons
 - [Lesson 1. Intro](/sources/web3-intro/lesson_1.md)
 - [Lesson 2](/sources/web3-intro/lesson_2.md)
 - [Lesson 3](/sources/web3-intro/lesson_3.md)
@@ -17,3 +21,13 @@
 
 ## TON Coding Bootcamp
 Intensive Accelerated Courses in Software Development The Open Network. They help beginners quickly get used to the world of Web3 technologies, get their first professional skills and build a project on TON.
+
+|TODO |Q1 2023|
+|---|---|
+
+* Place: metaspace.ton
+* subdomain: bootcamp.metaspace.ton
+
+
+## Licence
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)

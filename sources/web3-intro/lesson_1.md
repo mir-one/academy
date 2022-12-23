@@ -1,6 +1,6 @@
 Hello!
 
-This lesson #12 of the Web3 tutorial.
+This lesson #1 of the Web3 tutorial.
 
 At the moment, we will discuss cryptocurrency as the loudest innovation in the financial sector in recent years.
 
